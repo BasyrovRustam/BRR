@@ -8,7 +8,4 @@
 
 Для этого я учусь в [Нетологии](https://netology.ru)
 
-![Логотип Нетологии][def](https://netology.ru/dist/public/images/logo-color-text_6748e2.svg)
-
-
-[def]:https://netology.ru/dist/public/images/logo-color-text_6748e2.svg
+![Логотип Нетологии](https://netology.ru/dist/public/images/logo-color-text_6748e2.svg)
